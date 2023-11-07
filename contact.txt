@@ -1,0 +1,15 @@
+Discord:
+	server: jobs & hiring market
+	channel: paid-jobs
+
+posting account: vijay @vijay00716
+job title: ReactJs developer with experience in Django
+
+job description:
+
+We are looking for an experienced ReactJS developer who can help us understand the code of an open-source Web Application that uses Python in the backend.
+We need web developer who has experience in python and react.js.
+Project: https://github.com/spiral2067/label-studio
+Please have a look at the repo and run it on your local environment following readme.md
+If you feel that you have understood how the project is developed and works, we would definitely be willing to work to collaborate with you throughout the project.
+
